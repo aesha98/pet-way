@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pet Way</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_categories">Learn</string>
+    <string name="menu_cart">Account</string>
+    <string name="menu_search">Places</string>
+
+
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="API_KEY">AIzaSyDhG-JUWwauViy9dSeaxdEtind_5Rm70x4</string>
+
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_home2">Home2Activity</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-7287003020531388/4190042558</string>
+
+
+    <string name="action_edit">Edit</string>
+    <string name="action_shoping">Shopping Cart</string>
+    <string name="action_search">Search</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, tritani suscipit sea id. Dico eloquentiam et sea, movet intellegam at pri. In vis natum gubergren efficiendi. Esse integre vivendum nec te. Modus iusto sententiae duo ut, mei iudico graeci nostrud eu, mundi exerci repudiare ei pri. Mundi alterum facilisi ne mel, quas placerat hendrerit ei mea, hinc habeo illud ei pri.</string>
+    <string name="lorem_ipsum2">An verear theophrastus delicatissimi cum. In cum ancillae convenire. Est ne omnes causae corrumpit, eum duis sententiae necessitatibus te, mollis.</string>
+    <string name="lorem_ipsum3">Lorem ipsum dolor sit amet, vel at aeque graeci intellegat. Modus utinam mea ei, ut illum ponderum vim. Ridens tractatos.</string>
+    <string name="lorem_ipsum4">Possim discere alienum qui ei, per ex moderatius vituperatoribus. Justo consul minimum eum.</string>
+    <string name="twitter_consumer_key">jWehsNnSG5xy1bGfSQhgmgEZI</string>
+    <string name="twitter_consumer_secret">wMzA7zTf7GPkyeWeezbq2c4gQ3VXNER0npbmdZG6iREg7TlMvA</string>
+    <string name="instagram_token">5571744371.14d5057.ed4a5fcec0594f4ea68664c2340308e8</string>
+    <string name="youtube_api_key">AIzaSyBQjpE3RBtPm9PyquAMbhNCMkaYzhHpjbI</string>
+    <string name="tumblr_api_key">57gBN0owYvjhhe0uMnAXin64vnZlHECqgTTXZyxWy7b94WyGyH</string>
+
+
+</resources>

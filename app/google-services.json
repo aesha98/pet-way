@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "179983129514",
+    "firebase_url": "https://pet-way-f6255-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pet-way-f6255",
+    "storage_bucket": "pet-way-f6255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179983129514:android:1f4c2cee368db83633a9d3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179983129514-08e75b5rjb1blq9sa75mgcttlubmpidp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuLluo88tplgsV4G_uldwtGbN5Stx3lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179983129514-08e75b5rjb1blq9sa75mgcttlubmpidp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179983129514:android:09891139db66460433a9d3",
+        "android_client_info": {
+          "package_name": "com.example.petway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179983129514-08e75b5rjb1blq9sa75mgcttlubmpidp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuLluo88tplgsV4G_uldwtGbN5Stx3lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179983129514-08e75b5rjb1blq9sa75mgcttlubmpidp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
